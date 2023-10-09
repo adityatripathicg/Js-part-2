@@ -10,3 +10,13 @@ let student = {
     reposts : 4,
     tags : ["@shrutiagrahari","@adityaxcg"]
  };
+const classInfo = {
+    aman : {
+        grade : "A+",
+        city : "delhi"
+    },
+    aditya : {
+        grade : "A",
+        city : "jbp"
+    }
+};
