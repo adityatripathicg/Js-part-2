@@ -20,3 +20,15 @@ const classInfo = {
         city : "jbp"
     }
 };
+//array of objects
+const stu = [
+    {
+        name : "CG",
+    },
+    {
+        name : "CG",
+    },
+    {
+        name : "CG",
+    }
+];
