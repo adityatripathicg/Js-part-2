@@ -9,3 +9,7 @@ let id = setInterval(() => {
     console.log("SCG CREATIONS");
 }, 5000);
 clearInterval(id);
+
+//arrow function that returns square of N
+let sq = ((n)=>n*n);
+//
