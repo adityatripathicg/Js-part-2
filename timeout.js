@@ -12,4 +12,11 @@ clearInterval(id);
 
 //arrow function that returns square of N
 let sq = ((n)=>n*n);
-//
+//SetInterval which prints HW in 2 secs 5 times
+
+let times = setInterval(() => {
+    console.log("Hello World!");
+}, 2000);
+setTimeout(() => {
+    clearInterval(times)
+}, 10000);
