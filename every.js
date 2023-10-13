@@ -22,3 +22,12 @@ let maximum = even.reduce((maximum,element) => {
 console.log(maximum);
 //multiples of 10 
 console.log(even.every(n => n%10==0));
+//min in array 
+let min = even.reduce((res,num) => {
+    if(res<num){
+        return res;
+    }else{
+        return num;
+    }
+})
+console.log(min);
