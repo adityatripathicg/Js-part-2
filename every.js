@@ -20,3 +20,4 @@ let maximum = even.reduce((maximum,element) => {
     }
 })
 console.log(maximum);
+
