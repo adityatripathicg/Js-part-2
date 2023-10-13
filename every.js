@@ -20,4 +20,5 @@ let maximum = even.reduce((maximum,element) => {
     }
 })
 console.log(maximum);
-
+//multiples of 10 
+console.log(even.every(n => n%10==0));
