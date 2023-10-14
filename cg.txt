@@ -3,7 +3,7 @@
  memory.WriteMemory("0x" + (ANOGS + 0x4A116).ToString("x"), "bytes", "00 00 00 00"); //EMU BYPASS 10
  memory.WriteMemory("0x" + (ANOGS + 0x86762).ToString("x"), "bytes", "00 20 70 47"); //case 23
  memory.WriteMemory("0x" + (ANOGS + 0x7D5F8).ToString("x"), "bytes", "00 20 70 47"); // case 1
- memory.WriteMemory("0x" + (ANOGS + 0x8E6E4).ToString("x"), "bytes", "00 20 70 47"); // case 35
+ memoremory("0x" + (ANOGS + 0x8E6E4).ToString("x"), "bytes", "00 20 70 47"); // case 35
  memory.WriteMemory("0x" + (ANOGS + 0x97794).ToString("x"), "bytes", "00 20 70 47"); // case 34
 
 ﻿
