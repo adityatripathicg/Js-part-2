@@ -1,0 +1,52 @@
+ 
+ memory.WriteMemory("0x" + (ANOGS + 0x7107A).ToString("x"), "bytes", "0x00 00"); //EMU BYPASS 10
+ memory.WriteMemory("0x" + (ANOGS + 0x4A116).ToString("x"), "bytes", "00 00 00 00"); //EMU BYPASS 10
+ memory.WriteMemory("0x" + (ANOGS + 0x86762).ToString("x"), "bytes", "00 20 70 47"); //case 23
+ memory.WriteMemory("0x" + (ANOGS + 0x7D5F8).ToString("x"), "bytes", "00 20 70 47"); // case 1
+ memory.WriteMemory("0x" + (ANOGS + 0x8E6E4).ToString("x"), "bytes", "00 20 70 47"); // case 35
+ memory.WriteMemory("0x" + (ANOGS + 0x97794).ToString("x"), "bytes", "00 20 70 47"); // case 34
+
+﻿
+ memory.WriteMemory("0x" + (ANOGS + 0x7107A).ToString("x"), "bytes", "00 00"); //EMU BYPASS 10
+ memory.WriteMemory("0x" + (ANOGS + 0x4A116).ToString("x"), "bytes", "00 00 00 00"); //EMU BYPASS 10
+ memory.WriteMemory("0x" + (ANOGS + 0x86762).ToString("x"), "bytes", "00 20 70 47"); //case 23
+ memory.WriteMemory("0x" + (ANOGS + 0x7D5F8).ToString("x"), "bytes", "00 20 70 47"); // case 1
+ memory.WriteMemory("0x" + (ANOGS + 0x8E6E4).ToString("x"), "bytes", "00 20 70 47"); // case 35
+ memory.WriteMemory("0x" + (ANOGS + 0x97794).ToString("x"), "bytes", "00 20 70 47"); // case 34
+ memory.WriteMemory("0x" + (ANOGS + 0x767BC).ToString("x"), "bytes", "00 20 70 47"); // case 16
+ memory.WriteMemory("0x" + (ANOGS + 0x4B320).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x4B33E).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x4BB34).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x4BB38).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x4BB3C).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x3E9A7C).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x3EAC44).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x40F2C0).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x658AE4).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x972DB0).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x2B9BE6).ToString("x"), "bytes", "00 20 70 47");
+ memory.WriteMemory("0x" + (ANOGS + 0x27EDC0).ToString("x"), "bytes", "00 00 A0 E3 1E FF 2F E1");
+ memory.WriteMemory("0x" + (ANOGS + 0x27EDA8).ToString("x"), "bytes", "00 00 A0 E3 1E FF 2F E1");
+ memory.WriteMemory("0x" + (ANOGS + 0x27EDA4).ToString("x"), "bytes", "00 00 A0 E3 1E FF 2F E1");
+ memory.WriteMemory("0x" + (ANOGS + 0x27ED9C).ToString("x"), "bytes", "00 00 A0 E3 1E FF 2F E1");
+ memory.WriteMemory("0x" + (ANOGS + 0x27ED60).ToString("x"), "bytes", "00 00 A0 E3 1E FF 2F E1");
+ memory.WriteMemory("0x" + (ANOGS + 0x27ED30).ToString("x"), "bytes", "00 00 A0 E3 1E FF 2F E1");
+ memory.WriteMemory("0x" + (ANOGS + 0x27ED28).ToString("x"), "bytes", "00 00 A0 E3 1E FF 2F E1");
+ memory.WriteMemory("0x" + (ANOGS + 0x27ED24).ToString("x"), "bytes", "00 00 A0 E3 1E FF 2F E1");
+ memory.WriteMemory("0x" + (ANOGS + 0x27ED10).ToString("x"), "bytes", "00 00 A0 E3 1E FF 2F E1");
+ memory.WriteMemory("0x" + (ANOGS + 0x27ED08).ToString("x"), "bytes", "00 00 A0 E3 1E FF 2F E1");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C4A98).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C4A14).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C4934).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C48F8).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C48CC).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C4838).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C47F4).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C4794).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C4738).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C4698).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C464C).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C4634).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x3C45EC).ToString("x"), "bytes", "00 2D 7F D9");
+ memory.WriteMemory("0x" + (ANOGS + 0x29FECC).ToString("x"), "bytes", "00 2D 7F D9");//case 42
+ memory.WriteMemory("0x" + (ANOGS + 0x27616C).ToString("x"), "bytes", "00 2D 7F D9");//case 30
